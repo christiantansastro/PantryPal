@@ -2,6 +2,7 @@
   "name": "pantrypal",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "proxy": "http://localhost:5000",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -9,13 +10,67 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-native-masked-view/masked-view": "0.2.9",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/material-bottom-tabs": "^6.2.19",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/stack": "^6.3.20",
+    "@rneui/base": "^4.0.0-rc.8",
+    "@rneui/themed": "^4.0.0-rc.8",
+    "@tensorflow/tfjs": "^4.12.0",
+    "@tensorflow/tfjs-react-native": "^0.8.0",
+    "array-flatten": "^3.0.0",
+    "buffer": "^6.0.3",
     "expo": "~49.0.15",
+    "expo-camera": "~13.4.4",
+    "expo-constants": "^14.4.2",
+    "expo-file-system": "~15.4.5",
+    "expo-gl": "~13.0.1",
+    "expo-gl-cpp": "^11.4.0",
+    "expo-image-manipulator": "~11.3.0",
+    "expo-image-picker": "~14.3.2",
+    "expo-media-library": "~15.4.1",
+    "expo-permissions": "~14.2.1",
     "expo-status-bar": "~1.6.0",
+    "jpeg-js": "^0.4.4",
+    "lottie-react-native": "^5.1.6",
+    "ndarray": "^1.0.19",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-dom": "^18.2.0",
+    "react-native": "0.72.6",
+    "react-native-camera": "^4.2.1",
+    "react-native-elements": "^3.4.3",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-opencv3": "^1.0.8",
+    "react-native-paper": "^5.11.3",
+    "react-native-photo-manipulator": "^1.2.7",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-vector-icons": "^10.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
+  },
+  "overrides": {
+    "@rneui/themed": {
+      "@rneui/base": "4.0.0-rc.8"
+    },
+    "@tensorflow/tfjs-react-native": {
+      "@tensorflow/tfjs-backend-cpu": "4.12.0",
+      "@tensorflow/tfjs-backend-webgl": "4.12.0",
+      "@tensorflow/tfjs-core": "4.12.0",
+      "expo-camera": "13.4.4",
+      "expo-gl": "13.0.1",
+      "react": "18.2.0"
+    },
+    "react-native-opencv3": {
+      "react-native": "0.72.6"
+    }
   },
   "private": true
 }
