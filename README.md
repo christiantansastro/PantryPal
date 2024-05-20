@@ -40,19 +40,21 @@ Allow me to share the journey of our Parcel Management System, a collaborative e
 ## User Interface
 
 ### Splash Screen
-![homePage](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/5e83b974-5658-4bd1-b2e5-8a9b00acc63b)
+![splash](https://github.com/christiantansastro/PantryPal/assets/137610891/531ba31a-81f1-48ac-9219-c8482400e145)
 
 ### Home Screen
-![image](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/851fa291-6d27-4f96-a70b-011d7dd50a4b)
+![home](https://github.com/christiantansastro/PantryPal/assets/137610891/48bfac82-775f-4221-9a67-08166b996251)
 
 ### Camera Screen
-![trackParcel](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/616f6325-f448-41ae-8c2b-d584d88bfe84)
+![camera](https://github.com/christiantansastro/PantryPal/assets/137610891/f2abc533-e231-44fe-8a9c-647cec1a45fe)
 
 ### Search Screen
-![scheduleParcel](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/807ec865-f2a8-415b-859f-44c3906e2e7b)
+![search](https://github.com/christiantansastro/PantryPal/assets/137610891/d47a726e-6546-45c3-8968-00a96153e269)
 
 ### Ingredient Detection
-![parcelSchedule](https://github.com/christiantansastro/Parcel-Management-System/assets/137610891/1619414a-09b2-4d06-aab4-692c5851a828)
+![ingredient](https://github.com/christiantansastro/PantryPal/assets/137610891/582a8aa2-fbaf-4929-aa7e-6e079b8ee549)
+![recipes](https://github.com/christiantansastro/PantryPal/assets/137610891/9a147ee5-d947-49d2-a005-9e7d21d1f0b6)
+
 
 <!-- CONTACT -->
 ## Contact
