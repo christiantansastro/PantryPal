@@ -40,7 +40,7 @@ Allow me to share the journey of our Parcel Management System, a collaborative e
 ## User Interface
 
 ### Splash Screen
-![splash](https://github.com/christiantansastro/PantryPal/assets/137610891/531ba31a-81f1-48ac-9219-c8482400e145|width=500)
+![splash](https://github.com/christiantansastro/PantryPal/assets/137610891/531ba31a-81f1-48ac-9219-c8482400e145|width=200)
 
 ### Home Screen
 ![home](https://github.com/christiantansastro/PantryPal/assets/137610891/48bfac82-775f-4221-9a67-08166b996251)
