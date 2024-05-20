@@ -53,6 +53,7 @@ Allow me to share the journey of our Parcel Management System, a collaborative e
 
 ### Ingredient Detection
 <img src="https://github.com/christiantansastro/PantryPal/assets/137610891/582a8aa2-fbaf-4929-aa7e-6e079b8ee549" width="280">
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/6602ab4e-7c0b-4dc7-bb2e-f30c4065b274" width="280">
 <img src="https://github.com/christiantansastro/PantryPal/assets/137610891/9a147ee5-d947-49d2-a005-9e7d21d1f0b6" width="280">
 
 <!-- CONTACT -->
