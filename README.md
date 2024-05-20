@@ -40,21 +40,20 @@ Allow me to share the journey of our Parcel Management System, a collaborative e
 ## User Interface
 
 ### Splash Screen
-<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/531ba31a-81f1-48ac-9219-c8482400e145" width="300">
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/531ba31a-81f1-48ac-9219-c8482400e145" width="280">
 
 ### Home Screen
-![home](https://github.com/christiantansastro/PantryPal/assets/137610891/48bfac82-775f-4221-9a67-08166b996251)
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/48bfac82-775f-4221-9a67-08166b996251" width="280">
 
 ### Camera Screen
-![camera](https://github.com/christiantansastro/PantryPal/assets/137610891/f2abc533-e231-44fe-8a9c-647cec1a45fe)
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/f2abc533-e231-44fe-8a9c-647cec1a45fe" width="280">
 
 ### Search Screen
-![search](https://github.com/christiantansastro/PantryPal/assets/137610891/d47a726e-6546-45c3-8968-00a96153e269)
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/d47a726e-6546-45c3-8968-00a96153e269" width="280">
 
 ### Ingredient Detection
-![ingredient](https://github.com/christiantansastro/PantryPal/assets/137610891/582a8aa2-fbaf-4929-aa7e-6e079b8ee549)
-![recipes](https://github.com/christiantansastro/PantryPal/assets/137610891/9a147ee5-d947-49d2-a005-9e7d21d1f0b6)
-
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/582a8aa2-fbaf-4929-aa7e-6e079b8ee549" width="280">
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/9a147ee5-d947-49d2-a005-9e7d21d1f0b6" width="280">
 
 <!-- CONTACT -->
 ## Contact
