@@ -23,7 +23,7 @@
   
 Hi there,
 
-Allow me to share the journey of our Parcel Management System, a collaborative effort involving a dynamic team of four. Together, we crafted a robust 45-page Full-Stack web application. Delving into the core   of our project, we architected a sophisticated 4-table relational database schema. This structure empowers our system to effortlessly manage the creation, retrieval, updating, and deletion of data for all your parcel needs. In this project, HTML, CSS, Java, and JavaScript laid the foundation, while MySQL added the crucial data management layer. Every table in the database plays a distinct role. Creating, reading, updating, or deleting data, the CRUD operations ensure that parcel management becomes a smooth and intuitive process.
+Introducing PantryPal, a mobile food image classification app designed to transform leftover food ingredients into delicious recipes. PantryPal is powered by a multi-label image classification model built with transfer learning using EfficientNetV2B0. The model was trained on single-label data, however by utilizing regions of interest, multi-label image classification could still be implemented into PantryPal. The model's accuracy was enhanced by 39.3% through automatic hyperparameter tuning, ensuring precise and reliable food classification. PantryPal is more than just an app; it’s a smart kitchen assistant, combining advanced technology with user-friendly design to deliver a seamless and accurate food waste prevention solution.
 
 </div>
 
