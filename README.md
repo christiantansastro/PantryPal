@@ -65,7 +65,7 @@ Introducing PantryPal, a mobile food image classification app designed to transf
 
 Christian Tansastro - christiantan1530@gmail.com
 
-Project Link: [[https://github.com/christiantansastro/Parcel-Management-System](https://github.com/christiantansastro/PantryPal)]
+Project Link: [https://github.com/christiantansastro/PantryPal](https://github.com/christiantansastro/PantryPal)
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/christiantansastro
