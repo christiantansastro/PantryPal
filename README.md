@@ -54,9 +54,9 @@ Introducing PantryPal, a mobile food image classification app designed to transf
 <img src="https://github.com/christiantansastro/PantryPal/assets/137610891/d47a726e-6546-45c3-8968-00a96153e269" width="280">
 
 ### Ingredient Detection
-<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/582a8aa2-fbaf-4929-aa7e-6e079b8ee549" width="280">
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/8282ce67-9ed4-4f4b-9780-1c7e71d35e28" width="280">
 <img src="https://github.com/christiantansastro/PantryPal/assets/137610891/6602ab4e-7c0b-4dc7-bb2e-f30c4065b274" width="280">
-<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/9a147ee5-d947-49d2-a005-9e7d21d1f0b6" width="280">
+<img src="https://github.com/christiantansastro/PantryPal/assets/137610891/c8f055e2-cc44-4615-85cc-301f3aa82406" width="280">
 
 <!-- CONTACT -->
 ## Contact
